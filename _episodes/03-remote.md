@@ -3,7 +3,7 @@ title: "Remote Repositories"
 teaching: 0
 exercises: 0
 questions:
-- "How do I connect my code to other versions of the it?"
+- "How do I connect my code to other versions of it?"
 objectives:
 - "Learn about remote repositories."
 keypoints:
