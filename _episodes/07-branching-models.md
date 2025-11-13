@@ -15,7 +15,7 @@ keypoints:
 
 ## What is a branching model/strategy?
 
-Branches are primarily used as a means for teams to develop features giving them a separate workspace for their code. These branches are usually merged back to a master branch upon completion of work. In this way, features (and any bug and bug fixes) are kept apart from each other allowing you to fix mistakes more easily.
+Branches are primarily used as a means for teams to develop features giving them a separate workspace for their code. These branches are usually merged back to a `main` branch upon completion of work. In this way, features (and any bug and bug fixes) are kept apart from each other allowing you to fix mistakes more easily.
 
 This means that branches protect the mainline of code and any changes made to any given branch don’t affect other developers.
 
@@ -27,13 +27,13 @@ Such a strategy is necessary as it helps keep repositories organized to avoid er
 
 Thus, adhering to a branching strategy will help solve this issue so that developers can work together without stepping on each other’s toes. In other words, it enables teams to work in parallel to achieve faster releases and fewer conflicts by creating a clear process when making changes to source control.
 
-When we talk about branches, we are referring to independent lines of code that branch off the master branch, allowing developers to work independently before merging their changes back to the code base.
+When we talk about branches, we are referring to independent lines of code that branch off the `main` branch, allowing developers to work independently before merging their changes back to the code base.
 
 In this and the following episodes, we will outline some of the branching strategies that teams use in order to organize their workflow where we will look at their pros and cons and which strategy you should choose based on your needs, objectives and your team’s capabilities.
 
 ## Why do you need a branching model?
 
-As mentioned above, having a branching model is necessary to avoid conflicts when merging and to allow for the easier integration of changes into the master trunk.
+As mentioned above, having a branching model is necessary to avoid conflicts when merging and to allow for the easier integration of changes into the `main` trunk.
 
 A BRANCHING MODEL AIMS TO:
 - Enhance productivity by ensuring proper coordination among developers
