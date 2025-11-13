@@ -154,8 +154,7 @@ git checkout alt-history
 {: .language-bash}
 
 
-https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
-Also OMG: http://blog.kfish.org/2010/04/git-lola.html
+More about [resetting, checking out, and reverting](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
 
 ## Exercise: Undoing Changes
 
