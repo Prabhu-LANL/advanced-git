@@ -180,7 +180,7 @@ More about [resetting, checking out, and reverting](https://www.atlassian.com/gi
 > {: .solution}
 {: .challenge}
 
-> - Completely throw away the last two commits [DANGER ZONE!!!]. Check the status and the log.
+> - Completely throw away the last two commits [**DANGER ZONE**!!!]. Check the status and the log.
 > 
 > > ## Solution
 > > ~~~
